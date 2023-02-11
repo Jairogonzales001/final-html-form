@@ -1,0 +1,16 @@
+button {
+    float: right;
+  }
+h3{
+    background-color: rgb(243, 243, 243);
+}
+#payment{
+   background-color: rgb(243, 243, 243);
+}
+p{
+  background-color: pink;
+color: darkred;
+}
+.container{
+  border-style: groove;
+}
